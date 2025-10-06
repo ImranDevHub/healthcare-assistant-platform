@@ -1,0 +1,9 @@
+streamlit==1.32.2
+pymupdf==1.23.7
+sentence-transformers==2.6.1
+pinecone-client==3.0.0
+llama-cpp-python==0.2.22  # latest stable as of April 2025
+langchain==0.1.14         # optional, only if using their text splitter
+ctransformers
+python-dotenv==1.1.0
+-e .

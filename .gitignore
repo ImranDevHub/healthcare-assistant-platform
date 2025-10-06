@@ -137,3 +137,14 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+.venv/
+# Python virtual environment
+chatbot/Medical_Chatbot.egg-info/
+
+# Model binaries
+chatbot/models/*.bin
+
+# Python cache files
+__pycache__/
+*.pyc
